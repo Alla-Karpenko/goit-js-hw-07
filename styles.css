@@ -1,0 +1,10 @@
+
+.list {
+    list-style: none;
+}
+#gallery{
+   display: flex;
+   justify-content: space-between;
+   
+}
+
