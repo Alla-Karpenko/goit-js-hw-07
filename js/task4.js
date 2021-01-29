@@ -15,4 +15,9 @@ function decrement() {
     result.textContent = counterValue - 1
 }
 
-   
+// let counterValue = 0;
+// const startValue = document.querySelector(`#value`);
+// const decrement = document.querySelector(`button[data-action="decrement"]`);
+// const increment = document.querySelector(`button[data-action="increment"]`);
+// decrement.addEventListener(`click`, () => startValue.textContent = counterValue -= 1);
+// increment.addEventListener(`click`, () => startValue.textContent = counterValue += 1);
